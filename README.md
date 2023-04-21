@@ -166,7 +166,9 @@ Here is a live page in which I refactored the code to make it more accessible.
 Link to the live page 
 https://sdavi222.github.io/refactoring-challenge/
 
-Screenshot of live page 
-![2023-04-20](https://user-images.githubusercontent.com/130076128/233527882-82136142-c965-4205-9d56-fc0fefcf8118.png)
+Screenshot of live page
+![2023-04-20 (3)](https://user-images.githubusercontent.com/130076128/233528811-57726982-958a-483a-99b1-f31455daf22f.png)
+ 
+
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
