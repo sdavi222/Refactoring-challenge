@@ -158,5 +158,15 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+
 ---
+Description; 
+Here is a live page in which I refactored the code to make it more accessible.
+
+Link to the live page 
+https://sdavi222.github.io/refactoring-challenge/
+
+Screenshot of live page 
+![2023-04-20](https://user-images.githubusercontent.com/130076128/233527882-82136142-c965-4205-9d56-fc0fefcf8118.png)
+
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
